@@ -1,6 +1,6 @@
 # TD3_GitHub
  HEAD
-
+**Team members:** Mehdi, Matthieu, Tomas, Charles
 # TD3 Git Branches
 
 Ceci est un projet d'équipe pour apprendre à utiliser Git et GitHub.
